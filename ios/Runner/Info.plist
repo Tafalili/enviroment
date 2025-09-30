@@ -1,0 +1,22 @@
+<!-- أذونات الكاميرا -->
+<key>NSCameraUsageDescription</key>
+<string>نحتاج للوصول للكاميرا لالتقاط الصور</string>
+
+<!-- أذونات معرض الصور -->
+<key>NSPhotoLibraryUsageDescription</key>
+<string>نحتاج للوصول لمعرض الصور لاختيار الصور</string>
+
+<!-- أذونات حفظ الصور -->
+<key>NSPhotoLibraryAddUsageDescription</key>
+<string>نحتاج لحفظ الصور في المعرض</string>
+
+<!-- أذونات الملفات -->
+<key>NSDocumentsFolderUsageDescription</key>
+<string>نحتاج للوصول للملفات</string>
+
+<!-- السماح بـ HTTP إذا لزم الأمر -->
+<key>NSAppTransportSecurity</key>
+<dict>
+    <key>NSAllowsArbitraryLoads</key>
+    <true/>
+</dict>
